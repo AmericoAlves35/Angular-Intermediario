@@ -1,0 +1,164 @@
+{
+  "filmes": [
+    {
+      "id": 2,
+      "titulo": "MIB: Homens de Preto II ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2012-07-19T03:00:00.000Z",
+      "descricao": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.",
+      "nota": 6.2,
+      "urlIMDb": "https://www.imdb.com/title/tt0120912",
+      "genero": "Ação"
+    },
+    {
+      "id": 4,
+      "titulo": "MIB: Homens de Preto - Internacional",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-13-11T03:00:00.000Z",
+      "descricao": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+      "nota": 5.6,
+      "urlIMDb": "https://www.imdb.com/title/tt2283336/",
+      "genero": "Ação"
+    },
+    {
+      "id": 5,
+      "titulo": "Coringa",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+      "nota": 8.7,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/",
+      "genero": "Drama"
+    },
+    {
+      "id": 6,
+      "titulo": "Vingadores: Ultimato",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-25T03:00:00.000Z",
+      "descricao": "After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/",
+      "genero": "Aventura"
+    },
+    {
+      "id": 7,
+      "titulo": "Capitã Marvel",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-03-07T03:00:00.000Z",
+      "descricao": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt4154664/",
+      "genero": "Ação"
+    },
+    {
+      "id": 8,
+      "titulo": "Shazam!",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-04T03:00:00.000Z",
+      "descricao": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+      "nota": 7.1,
+      "urlIMDb": "https://www.imdb.com/title/tt0448115/",
+      "genero": "Comédia"
+    },
+    {
+      "id": 9,
+      "titulo": "John Wick 3: Parabellum",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-05-16T03:00:00.000Z",
+      "descricao": "John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt6146586/",
+      "genero": "Ação"
+    },
+    {
+      "titulo": "Star Wars: A Ascensão Skywalker",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "In Theaters Now\nAfter Palpatine mysteriously returns, the Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
+      "genero": "Aventura",
+      "id": 11
+    },
+    {
+      "titulo": "Shrek",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/54/04/20150812.jpg",
+      "dtLancamento": "2001-07-22T03:00:00.000Z",
+      "descricao": "Um senhor malvado exila criaturas de contos de fadas para o pântano de um ogro mal-humorado, que deve sair em uma missão e resgatar uma princesa para o senhor, a fim de obter suas terras de volta.",
+      "nota": 7.9,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-27415/",
+      "genero": "Animação",
+      "id": 12
+    },
+    {
+      "titulo": "FORREST GUMP - O CONTADOR DE HISTÓRIAS",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/30/21/19874092.jpg",
+      "dtLancamento": "1994-11-07T02:00:00.000Z",
+      "descricao": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump (Tom Hanks), um rapaz com QI abaixo da média e boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+      "nota": 4.7,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-10568/",
+      "genero": "Aventura",
+      "id": 13
+    },
+    {
+      "titulo": "BASTARDOS INGLÓRIOS",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/43/36/20096333.jpg",
+      "dtLancamento": "2009-10-09T03:00:00.000Z",
+      "descricao": "Na Segunda Guerra Mundial, a França está ocupada pelos nazistas. O tenente Aldo Raine (Brad Pitt) é o encarregado de reunir um pelotão de soldados de origem judaica, com o objetivo de realizar uma missão suicida contra os alemães. O objetivo é matar o maior número possível de nazistas, da forma mais cruel possível.",
+      "nota": 9.2,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-60208/",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "O HOMEM DE AÇO",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/pictures/210/057/21005782_20130514172205617.jpg",
+      "dtLancamento": "2013-07-12T03:00:00.000Z",
+      "descricao": "Nascido em Krypton, o pequeno Kal-El viveu pouco tempo em seu planeta natal.Em uma nave espacial, rumo ao planeta Terra, e levando com ele importantes informações de seu povo. O tempo passa, seus poderes vão aparecendo e se tornando, de certa forma, um problema, porque isso evidencia que ele não é um ser humano. Já adulto, Clark (Henry Cavill) , a humanidade corre perigo e talvez tenha chegado a hora das pessoas conhecerem aqueles que passarão a chama de o Super-Homem.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-123348/",
+      "genero": "Aventura",
+      "id": 15
+    },
+    {
+      "titulo": "O ESPETACULAR HOMEM-ARANHA 2 - A AMEAÇA DE ELECTRO",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/pictures/14/01/07/21/16/425460.jpg",
+      "dtLancamento": "2014-05-01T03:00:00.000Z",
+      "descricao": "Em O Espetacular Homem-Aranha 2, Peter Parker (Andrew Garfield) adora ser o Homem-Aranha, por mais que ser o herói aracnídeo o coloque em situações bem complicadas enquanto surge um novo vilão, Electro.",
+      "nota": 8,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-192186/",
+      "genero": "Aventura",
+      "id": 16
+    },
+    {
+      "titulo": "SEXTA-FEIRA 13",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/pictures/15/03/10/20/18/175541.jpg",
+      "dtLancamento": "2009-02-13T02:00:00.000Z",
+      "descricao": "Apesar de ser avisado pelos oficiais e habitantes locais, ele resolve explorar o local juntamente com uma jovem, que está em um grupo que se formou para passar um final de semana de aventuras. O que eles não esperavam era encontrar Jason Voorhess (Derek Mears), o assassino da máscara de hóquei.",
+      "nota": 5,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-135279/",
+      "genero": "Terror",
+      "id": 17
+    },
+    {
+      "titulo": "CLOSER - PERTO DEMAIS",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/17/03/19872727.jpg",
+      "dtLancamento": "2005-01-21T02:00:00.000Z",
+      "descricao": "uma fotógrafa bem sucedida, que se divorciou recentemente. Ela conhece e seduz Dan (Jude Law), um aspirante a romancista que ganha a vida escrevendo obituários, mas se casa com Larry (Clive Owen). Dan mantém um caso secreto com Anna mesmo após ela se casar e usa Alice (Natalie Portman), uma stripper, como musa inspiradora para ganhar confiança e tentar conquistar o amor de Anna",
+      "nota": 4.8,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-51594/",
+      "genero": "Drama",
+      "id": 18
+    },
+    {
+      "titulo": "FIM DOS DIAS",
+      "urlFoto": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/95/48/10/20407383.jpg",
+      "dtLancamento": "1999-12-03T02:00:00.000Z",
+      "descricao": "ericho Cane (Arnold Schwarzenegger) é um amargurado guarda-costas que perdeu a mulher e a filha em um ataque terrorista. Nos últimos dias de 1999 um de seus clientes, um banqueiro (Gabriel Byrne), sofre uma emboscada. Na investigação que se segue, Cane descobre a macabra trama de uma seita que espera pela chegada de satã e escolheu Christine York (Robin Tunney) para gerar o filho das trevas. Ele agora deve fazer de tudo para protegê-la e evitar o fim dos tempos.",
+      "nota": 4.8,
+      "urlIMDb": "https://www.adorocinema.com/filmes/filme-21819/",
+      "genero": "Ação",
+      "id": 19
+    }
+  ]
+}
